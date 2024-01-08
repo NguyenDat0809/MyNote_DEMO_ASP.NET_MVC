@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hfbk6uUVA1yX2fP4SIbbRGoHxq5qZLurrv19i6qsJ57C2EtaUundxjf+JBRXYoPJv14gBr4LjE98BpdBUFuR1w==",
+  "dgSpecHash": "iBBC1B1XZJYnwXYOrvVc3KuWk+Vnm7QbpWznAMIUMGIBOPof0AL5CRNJO5/dli/Sas3+FxsfbyxXk5XQjr7Dgw==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\C#\\Handon\\MyNote\\MyNote\\MyNote.csproj",
+  "projectFilePath": "D:\\Learning\\C#\\Handon\\MyNote\\MyNote_DEMO_ASP.NET_MVC\\MyNote\\MyNote.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\84859\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\84859\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

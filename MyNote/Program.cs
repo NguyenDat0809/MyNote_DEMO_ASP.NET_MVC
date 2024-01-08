@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using MyNote.Data;
+using MyNote.Interface;
+using MyNote.Models;
+using MyNote.Repositories;
 
 namespace MyNote
 {
@@ -11,6 +14,9 @@ namespace MyNote
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            //Add service to container
+            builder.Services.AddScoped<IExpenseRepository, ExpenseRepository>();
 
             builder.Services.AddDbContext<ApplicationDbContext>(options
                 => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));

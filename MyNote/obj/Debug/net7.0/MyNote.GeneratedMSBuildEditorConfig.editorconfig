@@ -9,67 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyNote
 build_property.RootNamespace = MyNote
-build_property.ProjectDir = D:\Learning\C#\Handon\MyNote\MyNote\
+build_property.ProjectDir = D:\Learning\C#\Handon\MyNote\MyNote_DEMO_ASP.NET_MVC\MyNote\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Learning\C#\Handon\MyNote\MyNote
+build_property.MSBuildProjectDirectory = D:\Learning\C#\Handon\MyNote\MyNote_DEMO_ASP.NET_MVC\MyNote
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/Appointment/Index.cshtml]
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/Appointment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/Expenses/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcQ3JlYXRlLmNzaHRtbA==
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/Expense/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/Expenses/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcRGVsZXRlLmNzaHRtbA==
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/Expense/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/Expenses/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcSW5kZXguY3NodG1s
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/Expense/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/Expenses/Update.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcVXBkYXRlLmNzaHRtbA==
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/Expense/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/Home/Index.cshtml]
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/Home/Privacy.cshtml]
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/Item/Create.cshtml]
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/Item/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/Item/Index.cshtml]
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/Item/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/Shared/Error.cshtml]
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/_ViewImports.cshtml]
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/_ViewStart.cshtml]
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/C\#/Handon/MyNote/MyNote/Views/Shared/_Layout.cshtml]
+[D:/Learning/C\#/Handon/MyNote/MyNote_DEMO_ASP.NET_MVC/MyNote/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-gsmiqeozlc
